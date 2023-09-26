@@ -1,0 +1,3 @@
+StuDao=org.example.dao.impl.StuDaoImplB
+StuService=org.example.service.impl.StuServiceImpl
+StuController=org.example.controller.StuController
